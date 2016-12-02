@@ -1,5 +1,5 @@
 FROM ubuntu
-
+MAINTAINER  jitendra Singh <bhalothia@gmail.com>
 # Install Nginx.
 RUN \
 #  add-apt-repository -y ppa:nginx/stable && \
